@@ -79,8 +79,8 @@ Asymptotic notations are the mathematical notations used to describe the running
 - Big-O notation (O-notation)
     Big-O notation represents the upper bound of the running time of an algorithm. Thus, it gives the worst-case complexity of an algorithm.
 
-    ![Image about all time complexity comparison](./documentation/time-complexity-all.png)
-    ![Image about top % complexity comparison](./documentation/time-complexity-top-5.png)
+    ![Image about all time complexity comparison](/documentation/time-complexity-all.png)
+    ![Image about top 5 complexity comparison](./documentation/time-complexity-top-5.png)
 
 - Omega notation (Ω-notation)
     Omega notation represents the lower bound of the running time of an algorithm. Thus, it provides the best case complexity of an algorithm.
