@@ -3,17 +3,23 @@
 Inbuilt data structures are:
 ![Image about inbuilt DS in JavaScript](../../documentation/inbuilt-data-types-JS.png)
 
-## TYPES OF DATA STRUCTURES
+## TYPES OF JAVASCRIPT DATA STRUCTURES
+
+### INBUILT DATA STRUCTURE
 
 - Linear data structure
 
   - Array
   - Set
 
-- Non-Linear
+- Key-Value store data structure
 
   - Object
   - Map
-  - Stack (LIFO)
-  - Queue (FIFO)
-  - Linked List
+
+### CUSTOM DATA STRUCTURE
+
+- Non-Linear
+    - Stack (LIFO)
+    - Queue (FIFO)
+    - Linked List
