@@ -17,11 +17,12 @@ Inbuilt data structures are:
   - Object
   - Map
 
-WEAKSET AND WEAKMAP
+- WEAKSET AND WEAKMAP
+
 Gives Memory gain and app performance by eliminating all app-wide unused, keys(Maps) and values(Set) in the Set/Map as they are "weakly referenced".
 ![Image about WeakSet & WeakMap in JavaScript](../documentation/weakset-weakmap.png)
 
-![More on WeakSet and WeakMap](https://javascript.info/weakmap-weakset)
+[https://javascript.info/weakmap-weakset]
 
 ### CUSTOM DATA STRUCTURE
 
