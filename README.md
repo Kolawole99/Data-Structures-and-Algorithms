@@ -15,7 +15,7 @@ In computer programming terms, an algorithm is a set of well-defined instruction
 
 #### Example Algorithm 1: Add two numbers entered by the user
 
-`Step 1: Start
+Step 1: Start
 
 Step 2: Declare variables num1, num2 and sum.
 
@@ -26,7 +26,7 @@ Step 4: Add num1 and num2 and assign the result to sum.
 
 Step 5: Display sum
 
-Step 6: Stop`
+Step 6: Stop
 
 ## DATA STRUCTURES
 
