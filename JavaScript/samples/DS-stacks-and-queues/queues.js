@@ -6,7 +6,7 @@ class Queue {
     }
 
     isEmpty() {
-        return this.tailIndex - this.headIndex === 0 ? true : false;
+        return this.tailIndex - this.headIndex === 0;
     }
 
     enqueue(item) {
@@ -36,6 +36,7 @@ class Queue {
 
 const queue = new Queue();
 
+console.log(queue.isEmpty());
 console.log(queue.dequeue());
 console.log(queue.peek());
 
@@ -45,6 +46,7 @@ queue.enqueue(6);
 queue.enqueue(4);
 
 console.log(queue.length);
-queue.dequeue(); // => 7
-queue.peek(); // => 2
+queue.dequeue();
+console.log(queue.peek());
 console.log(queue.length);
+console.log(queue.isEmpty());
